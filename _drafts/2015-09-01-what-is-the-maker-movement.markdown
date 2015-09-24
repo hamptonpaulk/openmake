@@ -19,8 +19,8 @@ A quick google search for [Maker Movement](https://www.google.com/webhp?&ion=1&e
 Here are some key elements
 
 1. Typically in a social environment
-2. Learning by doing, through direct experience. A form of [constructionism](https://en.wikipedia.org/wiki/Constructionism_(learning_theory)). 
-
+2. Learning by doing, through direct experience. A form of [constructionism](https://en.wikipedia.org/wiki/Constructionism_(learning_theory)) learning theory.
+3. Through entertaining or fun methods of applied technologies
 informal, networked, peer-led, and shared learning motivated by fun and self-fulfillment.
 
 novel applications of technologies
